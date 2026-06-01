@@ -40,7 +40,7 @@ export function HeroSection() {
             </Link>
           </nav>
           <Link
-            href="#book"
+            href="https://lucy-vet.com/app/login"
             className="rounded-full bg-white px-5 py-2.5 text-sm font-semibold text-zinc-900 transition-colors hover:bg-zinc-100"
           >
             Talk with Lucy-AI
