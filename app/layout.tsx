@@ -13,9 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lucy — Veterinary care for your pets",
+  title: "Lucy-Vet - Veterinary care for your pets",
   description:
     "Compassionate veterinary care, from wellness visits to urgent appointments.",
+  icons: {
+    icon: [{ url: "/icon.png" }],
+    apple: [{ url: "/apple-icon.png" }],
+  },
 };
 
 export default function RootLayout({
